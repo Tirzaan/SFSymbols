@@ -518,7 +518,7 @@ public struct SFSymbol {
 
 }
 
-@available(iOS 18.5, *)
+@available(iOS 18.5, *) 
 extension SFSymbol {
     // Apple Intelligence / Beats
     public static let appleIntelligenceBadgeXmark = "apple.intelligence.badge.xmark"
